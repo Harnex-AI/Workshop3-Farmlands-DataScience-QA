@@ -1,0 +1,11 @@
+farm_id,farm_name,region,farm_size_hectares,primary_crop,livestock_count,established_year,organic_certified,irrigation_system,soil_quality_score
+F001,Green Pastures Ltd,Canterbury,1250,Wheat,450,1987,No,Center Pivot,8.2
+F002,Dairy Dreams Co-op,Waikato,890,Grass,320,1995,Yes,Sprinkler,7.8
+F003,Mountain View Farm,Otago,2100,Barley,180,1973,No,Drip,6.9
+F004,Tropical Harvest,Northland,650,Avocado,0,2001,Yes,Micro-spray,9.1
+F005,Bay Orchards,Bay of Plenty,420,Kiwifruit,0,1989,No,Drip,8.5
+F006,Coastal Grazing,Taranaki,1800,Grass,680,1962,No,Rain-fed,7.2
+F007,Valley Produce,Hawke's Bay,950,Apples,0,1978,Yes,Flood,8.8
+F008,West Coast Sheep,West Coast,3200,Grass,1200,1955,No,Rain-fed,6.4
+F009,River Flats,Manawatu,1100,Maize,250,1992,No,Furrow,7.6
+F010,Southern Plains,Southland,2800,Oats,980,1968,No,Center Pivot,7.9
